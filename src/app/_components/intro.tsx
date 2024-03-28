@@ -7,13 +7,13 @@ export function Intro() {
         ROSAT 
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A statically generated blog example using{" "}
+        Beyza tarafından yapılmıştır{" "}
         <a
-          href="https://nextjs.org/"
+          href=" "
           className="underline hover:text-blue-600 duration-200 transition-colors"
         >
-          Next.js
-        </a>{" "}
+        
+        </a>{" sonradan degıstır"}
         and {CMS_NAME}.
       </h4>
     </section>
