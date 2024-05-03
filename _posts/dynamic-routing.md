@@ -1,19 +1,31 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/dynamic-routing/cover2.jpg"
-date: "2020-03-16T05:35:07.322Z"
+title: "Robotik Savunma Teknolojileri Ekip Üyeleri"
+excerpt: "ROSAT Ekibi Olarak: Birlikte çalışarak karmaşık teknolojik problemleri çözmek ve yenilikçi çözümler üretmek için bir araya geliyoruz. Teknolojinin sınırlarını zorlamak ve geleceği şekillendirmek için birlikte heyecanla çalışıyoruz."
+coverImage: "/assets/blog/dynamic-routing/cover5.jpg"
+date: "2024-05-03T05:35:07.322Z"
 author:
-  name: JJ Kasper
-  picture: "/assets/blog/authors/jj.jpeg"
+  name: Beyza KONUKER
+  picture: "/assets/blog/authors/beyza-pp.svg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover2.jpg"
+  url: "/assets/blog/dynamic-routing/cover5.jpg"
 ---
+## Takım Lideri ve Donanım Lideri
+Hüseyin AYĞAN - Takım Lideri ve Bilişim Sistemleri ve Teknolojileri Öğrencisi: Hüseyin, ekip liderimiz olarak projelerin koordinasyonunu sağlarken aynı zamanda bilişim alanında ekibe yardım eder.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Doğukan YANIK - Donanım & Yazılım Lideri ve Bilişim Sistemleri ve Teknolojileri Öğrencisi: Elektronik ve mekanik konularda uzman olan Doğukan, robotik sistemlerin tasarımı ve montajı konusunda liderdir. Hassas detaylara olan dikkati ve yenilikçi yaklaşımıyla projelere değer katmaktadır.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+## Web Geliştirme ve Tasarım
 
-## Lorem Ipsum
+İbrahim Hakkı HARMANKAYA - Tasarımcı ve Bilişim Sistemleri ve Teknolojileri Öğrencisi: İbrahim, robotik projelerin görsel ve kullanıcı dostu tasarımlarını oluşturmakta liderdir. Estetik duyarlılığı ve yaratıcı vizyonuyla, teknolojiyi insanlarla buluşturan çözümler geliştirmektedir.
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Nuri Eray BİLGİN - Sosyal Medya uzmanı ve Bilişim Sistemleri ve Teknolojileri Öğrencisi: Eray, dijital pazarlama ve sosyal medya stratejileri konusunda uzmanlaşmıştır. Estetik duyarlılığı ve yaratıcı vizyonuyla marka kimliği oluşturma, logo tasarımı ve uzman video düzenleme yetenekleriyle iletişim alanlarında uzmandır. 
+
+Beyza KONUKER  - Web Tasarım Uzmanı ve Bilişim Sistemleri ve Teknolojileri Öğrencisi: Beyza, kullanıcı deneyimini iyileştirmek ve etkileyici web siteleri oluşturmak için HTML, CSS ve JavaScript gibi teknolojileri ustalıkla kullanır. WEB tasarım konusunda deneyimlidir. 
+
+## Araştırma ve Teknik Ekip
+
+ Seval Olgaç - Araştırmacı ve Acil Afet Yönetimi Öğrencisi : Seval, pazar araştırması ve trend analizi yaparak iş stratejilerini geliştirir ve projeler için güçlü bir temel oluşturur. Güncel teknoloji trendlerini takip eder ve rekabet analizleri yapar.
+
+Aleyna Özdemir - Yazılımcı ve Bilgisayar Mühendisliği Öğrencisi: Aleyna, güçlü bir yazılım mühendisi olarak, projeler için özgün çözümler geliştirir ve kodlama konusunda uzmanlaşmıştır. Algoritmik düşünme becerisiyle, kompleks problemleri çözmekte liderdir.
+
+Berkay Sönmez - Yazılımcı ve Bilişim Sistemleri ve Teknolojileri Öğrencisi: Berkay, yazılım geliştirme süreçlerinde liderlik yapar ve ekip içindeki işbirliğini sağlar. Programlama dilleri konusunda geniş bir bilgi birikimine sahip olup, projelerin başarılı bir şekilde hayata geçirilmesini sağlar.

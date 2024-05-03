@@ -6,7 +6,7 @@ const Header = () => {
       <Link href="/" className="hover:underline">
         ROSAT
       </Link>
-      .
+      
     </h2>
   );
 };
