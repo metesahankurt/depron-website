@@ -1,13 +1,13 @@
 ---
 title: "Misyonumuz"
 excerpt: "Rosat olarak, dünyanın her alanında robotik teknolojilerin gücünü kullanarak toplumları, kurumları ve bireyleri daha güvenli hale getirmeyi amaçlıyoruz. "
-coverImage: "/assets/blog/preview/COVER3.jpg"
+coverImage: "/assets/blog/preview/cover_cover.jpg"
 date: "2023-01-16T05:35:07.322Z"
 author:
   name: Beyza KONUKER    
   picture: "/assets/blog/authors/beyza-pp.svg"
 ogImage:
-  url: "/assets/blog/preview/COVER3.jpg"
+  url: "/assets/blog/preview/cover_cover.jpg"
 ---
 ## Misyonumuz
 
